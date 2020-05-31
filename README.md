@@ -3,9 +3,9 @@
 
 **TeleVital WebApp:** https://televital.azurewebsites.net/
 ## Description
-TeleVital is an AI based chatbot designed to help people do preliminary analysis for Covid-19 contraction (Covid-19 assessment test, Vitals test) right at the comfort of their homes.  
+TeleVital is an AI powered platform designed to help users do preliminary analysis for COVID-19 contraction (COVID-19 assessment test, Vitals test) right at the comfort of their homes.  
 
-Additionally, TeleVital provides a platform for hospital / doctors to prioritise on their patients based on their criticality and email patients.
+TeleVital also provides a platform for hospital / doctors to prioritise on their patients based on their criticality and email patients.
 
 ## Components of TeleVital Platform
 1. **AI Chatbot:**  	
