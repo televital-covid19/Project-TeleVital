@@ -31,5 +31,5 @@ Understanding the rapid increase in cases of Covid-19, patient prioritizer porta
 - Jithin Sunny (jithin_sunny@yahoo.com)
 - Rohan Rout (rohan.rout98@gmail.com)
 - Rakshit Naidu (rakshit.naidu07@gmail.com)
-- Farhan Ahmad (farhan.tuba@gmail.com)
+- Syed Farhan Ahmad (farhan.tuba@gmail.com)
 - Joel Jogy (joeljogy07@gmail.com)
