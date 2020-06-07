@@ -1,5 +1,5 @@
 # Project TeleVital
-![homepage](homepage.png)
+![Homepage](https://github.com/r0cketr1kky/Project-TeleVital-1/blob/master/televital.jpeg)
 
 **TeleVital WebApp:** https://televital.azurewebsites.net/
 
